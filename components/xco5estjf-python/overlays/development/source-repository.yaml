@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xco5estjf-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/xco5estjf-python
